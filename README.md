@@ -28,6 +28,6 @@ This is the newer version, which uses bidirectional buck-boost converters for ch
 | assemble board                | [not started] |
 | test board/write code         | [not started] |
 | if not working, repeat        |               |
-| finalize code and put online  | [not started  |
+| finalize code and put online  | [not started] |
 
 (last updated: 2025-05-08)

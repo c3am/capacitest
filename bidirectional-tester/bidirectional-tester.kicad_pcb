@@ -15594,6 +15594,32 @@
 			(justify left bottom)
 		)
 	)
+	(gr_text "12V BAT"
+		(at 124.25 93.75 0)
+		(layer "F.SilkS")
+		(uuid "82478ea8-b03f-4bf9-b73e-615680e4bd85")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Cell 1"
+		(at 74 77.25 90)
+		(layer "F.SilkS")
+		(uuid "995aed4d-8b0b-41a2-8ea6-a01a19dd45ca")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
 	(gr_text "CH32V003"
 		(at 85.5 115.25 0)
 		(layer "F.SilkS")
@@ -15602,6 +15628,19 @@
 			(font
 				(size 1 1)
 				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "Cell 2"
+		(at 100 77.25 90)
+		(layer "F.SilkS")
+		(uuid "cee3e9dc-645b-4aa5-a3cc-2b544a9c7782")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.3)
 				(bold yes)
 			)
 			(justify left bottom)
