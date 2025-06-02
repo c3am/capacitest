@@ -24,8 +24,8 @@ This is the newer version, which uses bidirectional buck-boost converters for ch
 | ----------------------------- | ------------- |
 | schematic design              | [done]        |
 | PCB design                    | [done]        |
-| get PCB and other components  | [...]         |
-| assemble board                | [not started] |
+| get PCB and other components  | [done]        |
+| assemble board                | [...]         |
 | test board/write code         | [not started] |
 | if not working, repeat        |               |
 | finalize code and put online  | [not started] |
